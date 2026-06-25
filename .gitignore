@@ -1,0 +1,10 @@
+# Ignore GHDL compiled files
+*.cf
+*.o
+
+# Ignore GTKWave waveform files
+sim/*.vcd
+*.vcd
+
+# Ignore OS specific hidden files
+.DS_Store
